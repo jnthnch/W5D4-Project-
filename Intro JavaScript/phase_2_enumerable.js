@@ -29,16 +29,8 @@ Array.prototype.myReduce = function(callback, initialValue) {
 };
 
 
-// Array.prototype.myReduce = function (func, initialValue) {
-//   let arr = this; 
-// 
-//   if (!initialValue) {
-//     initialValue = arr[0];
-//     arr = arr.slice(1);
-//   }
-// 
-// 
-// }
+
+
 
 
 
